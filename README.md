@@ -125,3 +125,21 @@ python app.py
 **MAhmadMakhdoom**
 > Future Data Scientist | ML & AI Enthusiast
 > Building models today. Solving real problems tomorrow.
+
+---
+
+## 📦 Dataset
+
+This project uses the **Coursera Course Reviews** dataset.
+
+| Detail | Info |
+|--------|------|
+| Source | Kaggle |
+| Author | imuhammad |
+| Rows | 1,454,711 reviews |
+| Files | Coursera_reviews.csv + Coursera_courses.csv |
+
+🔗 **Download Dataset →** https://www.kaggle.com/datasets/imuhammad/course-reviews-on-coursera
+
+> Dataset is NOT included in this repo.
+> Run `python train.py` to auto-download via kagglehub. ✅
