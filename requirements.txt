@@ -1,0 +1,6 @@
+gradio
+scikit-surprise
+pandas
+numpy
+matplotlib
+kagglehub
